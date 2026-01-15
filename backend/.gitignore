@@ -33,3 +33,4 @@ ecosystem.config.cjs
 # Cache
 .cache/
 .temp/
+ 
